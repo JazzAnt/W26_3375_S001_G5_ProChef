@@ -4,7 +4,7 @@ Section       : 001
 
 Group         : 5
 
-App Name      : ReciPro
+App Name      : ProChef
 
 Student Name  : Jason Januar
 
